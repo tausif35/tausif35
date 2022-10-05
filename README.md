@@ -63,7 +63,7 @@
 ###
 </br>
 <div align="center">
-  <a href="https://open.spotify.com/user/31sowbhs5bwzkmngzng3nbmefgsm">
+  <a href="https://open.spotify.com/user/31sowbhs5bwzkmngzng3nbmefgsm" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sowbhs5bwzkmngzng3nbmefgsm&unique=true"  />
   </a>
 </div>
