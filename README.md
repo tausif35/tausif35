@@ -60,13 +60,13 @@
 </br>
 <p align="center">I'm currently pursuing a bachelor's degree in Software Engineering at the Institute of Information and Communication Technology, Shahjalal University of Science and Technology. My areas of interest are Deep Learning, Web3, MIS, Software and Systems Architecture. Besides Software Engineering, I'm into video games, anime, books and traveling.</p>
 
-###
+<!-- ###
 </br>
 <div align="center">
   <a href="https://open.spotify.com/user/31sowbhs5bwzkmngzng3nbmefgsm" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sowbhs5bwzkmngzng3nbmefgsm&unique=true"  />
   </a>
-</div>
+</div> -->
 
 ###
 </br>
