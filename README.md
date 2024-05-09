@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Tausif Ahmed, <br>An aspiring Software Engineer from Bangladesh</h2>
+<h2 align="center">Hi 👋! I'm Tausif Ahmed, <br>Software Engineer from Bangladesh</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 </br>
-<p align="center">I'm currently pursuing a bachelor's degree in Software Engineering at the Institute of Information and Communication Technology, Shahjalal University of Science and Technology. My areas of interest are Deep Learning, Web3, MIS, Software and Systems Architecture. Besides Software Engineering, I'm into video games, anime, books and traveling.</p>
+<p align="center">I'm currently working as a freelance software engineer and I've completed my bachelors in Software Engineering from IICT, SUST. My areas of interest are Deep Learning, Web3, MIS, Software and Systems Architecture. Besides Software Engineering, I'm into video games, anime, books and traveling.</p>
 
 <!-- ###
 </br>
